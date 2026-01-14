@@ -22,7 +22,7 @@
         </li>
 
         <li class="nav-item">
-          <a href="index.php?page=contract" class="nav-link <?php echo ($current_page == 'contract') ? 'active' : ''; ?>">Contact_Us</a>
+          <a href="index.php?page=contract" class="nav-link <?php echo ($current_page == 'contract') ? 'active' : ''; ?>">Feedback</a>
         </li>
 
         <li class="nav-item">
